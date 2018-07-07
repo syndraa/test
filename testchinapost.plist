@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.chinapost.mobile.portaluat</string>
+				<string>com.chinapost.mobile.portal</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
